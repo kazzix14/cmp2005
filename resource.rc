@@ -1,0 +1,47 @@
+#include <windows.h>
+#include <commctrl.h>
+#include <richedit.h>
+
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+
+// GUI用イメージ
+panel.png				PNG ".\\img\\panel.png"
+l_attack.png			PNG ".\\img\\l_attack.png"
+l_clip.png				PNG ".\\img\\l_clip.png"
+l_main_threshold.png    PNG ".\\img\\l_m_threshold.png"
+l_clip_light.png		PNG ".\\img\\l_clip_light.png"
+l_clip_threshold.png	PNG ".\\img\\l_clip_threshold.png"
+l_knee.png				PNG ".\\img\\l_knee.png"
+l_makeup.png			PNG ".\\img\\l_makeup.png"
+l_mix.png				PNG ".\\img\\l_mix.png"
+l_mode.png				PNG ".\\img\\l_mode.png"
+l_ratio.png				PNG ".\\img\\l_ratio.png"
+l_release.png			PNG ".\\img\\l_release.png"
+l_slope.png				PNG ".\\img\\l_slope.png"
+l_smooth.png			PNG ".\\img\\l_smooth.png"
+l_state.png				PNG ".\\img\\l_state.png"
+l_trigger.png			PNG ".\\img\\l_trigger.png"
+
+l_threshold_bar.png     PNG ".\\img\\l_threshold_bar.png"
+l_output_bar.png		PNG ".\\img\\l_output_bar.png"
+
+
+
+u_attack.png			PNG ".\\img\\u_attack.png"
+u_clip.png				PNG ".\\img\\u_clip.png"
+u_main_threshold.png    PNG ".\\img\\u_m_threshold.png"
+u_clip_light.png		PNG ".\\img\\u_clip_light.png"
+u_clip_threshold.png	PNG ".\\img\\u_clip_threshold.png"
+u_knee.png				PNG ".\\img\\u_knee.png"
+u_makeup.png			PNG ".\\img\\u_makeup.png"
+u_mix.png				PNG ".\\img\\u_mix.png"
+u_control_link.png		PNG ".\\img\\u_control_link.png"
+u_ratio.png				PNG ".\\img\\u_ratio.png"
+u_release.png			PNG ".\\img\\u_release.png"
+u_slope.png				PNG ".\\img\\u_slope.png"
+u_smooth.png			PNG ".\\img\\u_smooth.png"
+u_state.png				PNG ".\\img\\u_state.png"
+u_trigger.png			PNG ".\\img\\u_trigger.png"
+
+u_threshold_bar.png     PNG ".\\img\\u_threshold_bar.png"
+u_output_bar.png		PNG ".\\img\\u_output_bar.png"
